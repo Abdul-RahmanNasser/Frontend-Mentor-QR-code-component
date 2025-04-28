@@ -13,7 +13,7 @@ body {
 
 /* Start Container */
 /* Desktop Screen */
-.container {
+[role="contentinfo"] {
     background-color: hsl(212, 45%, 89%);
     width: 1440px;
     height: 960px;
