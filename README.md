@@ -17,12 +17,12 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![picture for the project](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [http://127.0.0.1:5500/qr-code-component-main/index.html](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- Live Site URL: [https://abdul-rahmannasser.github.io/Frontend-Mentor-QR-code-component/](https://abdul-rahmannasser.github.io/Frontend-Mentor-QR-code-component/)
 
 ## My process
 
@@ -48,7 +48,7 @@ The scale and box-shadow properties, media queries and flexbox.
 
 ## Author
 
-- Website - [Abdul-Ranman Nasser](http://127.0.0.1:5500/qr-code-component-main/index.html)
+- Website - [Abdul-Ranman Nasser](http://127.0.0.1:5500/index.html)
 - Frontend Mentor - [@Abdul-RahmanNasser](https://www.frontendmentor.io/profile/Abdul-RahmanNasser)
 - Twitter - [@NasrAlstar](https://x.com/NasrAlstar)
 
