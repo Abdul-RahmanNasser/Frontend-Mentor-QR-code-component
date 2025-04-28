@@ -12,6 +12,7 @@ body {
 /* End Global Styles */
 
 /* Start Container */
+/* Desktop Screen */
 .container {
     background-color: hsl(212, 45%, 89%);
     width: 1440px;
@@ -61,6 +62,7 @@ p:last-of-type {
     line-height: 140%;
 }
 
+/* Mobile Screen */
 @media (max-width: 375px) {
     .container {
         width: 375px;
